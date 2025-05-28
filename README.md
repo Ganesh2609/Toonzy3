@@ -1,6 +1,6 @@
 # Toonzy - Manga & Comics Website
 
-[View Live Demo](https://ganesh2609.github.io/Toonzy/)
+[View Live Demo](https://ganesh2609.github.io/Toonzy3/)
 
 ## Overview
 
